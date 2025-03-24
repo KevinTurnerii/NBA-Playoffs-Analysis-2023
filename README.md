@@ -87,16 +87,18 @@ This balanced scoring method avoids overemphasizing any single stat, offering a 
 
 ### 🧩 PCA & Clustering (Unsupervised Learning)
 
-- **Principal Component Analysis (PCA)** reduced 9 performance metrics (PTS, AST, TRB, STL, BLK, FG%, 3P%, FT%, TOV) into 2 principal components, explaining **63% of total variance**.  
-  This allowed for efficient player comparison in a simplified 2D space while retaining most performance information.
+- **Principal Component Analysis (PCA)** reduced 9 performance metrics — **PTS, AST, TRB, STL, BLK, FG%, 3P%, FT%, TOV** — into **2 principal components**, capturing **63% of total variance**.  
+  This enabled efficient player comparison in a simplified 2D space while preserving most performance data.
 
-- **KMeans Clustering (K=3)** grouped players into performance tiers based on PCA scores:
-  - 🟣 **Superstars** (e.g., Jokić, Butler, Davis)
+- **KMeans Clustering (K = 3)** grouped players into **performance tiers** based on PCA scores:
+  - 🟣 **Superstars** — e.g., Jokić, Butler, Davis
   - 🔴 **Starters**
   - 🔵 **Role Players**
 
-- Cluster labels were determined by calculating the **average Weighted Score** within each cluster to ensure role accuracy. 
-> **Key Insight:** Unsupervised learning techniques like PCA and KMeans enabled **objective segmentation** of players, providing a clear, data-driven view of individual contributions and roles.
+- **Cluster labels** were assigned based on each group’s **average Weighted Score**, ensuring data-backed accuracy in role classification.
+
+> **Key Insight:** PCA + KMeans provided **objective segmentation** of players, transforming raw stats into a **clear, visual understanding** of player contributions and roles — a prime example of **unsupervised learning** in action.
+
 
 ### 🧰 Tools & Technologies Used
 - **R** — Data analysis and visualization
@@ -158,14 +160,6 @@ The analysis highlights the power of data-driven storytelling in sports and demo
 - **Feature Engineering** — Creating TwoPT/ThreePT/FT Points, turnover negation, weighted score metric.
 - **Tool Proficiency** — R, RStudio, `tidyverse`, `ggplot2`, `ggcorrplot`, `factoextra`, `readxl`, `scales`, `dplyr`.
 
----
-
-### 📌 SAS Badge Alignment:
-This project **demonstrates skills covered in all 4 SAS certifications** you’ve earned:
-1. **Statistics & Data Mining for BI** *(Undergrad)* ✅  
-2. **Predictive Analytics Management** *(Grad)* ✅  
-3. **Enterprise Performance Management** *(Grad)* ✅  
-4. **Applied Data Analytics (Tier 3)** *(Grad)* ✅
 
 
 
