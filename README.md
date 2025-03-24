@@ -1,4 +1,4 @@
-# 🏀 NBA 2023 Playoff Player Performance Analysis
+# NBA 2023 Playoff Player Performance Analysis
 
 This project provides an in-depth analysis of NBA player performance during the **2023 NBA Playoffs**, with the goal of identifying the most impactful players using data-driven methods. Through **exploratory data analysis (EDA)**, **statistical analysis**, **correlation analysis**, **custom weighted scoring**, and **unsupervised learning** techniques, players are ranked and classified into performance tiers such as **Superstars, Starters, and Role Players**.
 
@@ -82,6 +82,8 @@ This balanced scoring method avoids overemphasizing any single stat, offering a 
 - **Jamal Murray** – Clutch scorer and playmaker: **26.1 PPG**, **7.1 AST**, **1.5 STL**, led team in key moments.  
 - **Jalen Brunson** – Reliable scorer: **27.8 PPG**, added **5.6 AST**, **4.9 TRB**, maintained consistent offensive pressure.
 
+> **Key Insight:** Top 10 performers displayed **balanced contributions** across scoring, playmaking, and defense — with **Jokić, Booker, and Davis** standing out for their versatility and statistical dominance.
+
 
 ### 🧩 PCA & Clustering (Unsupervised Learning)
 
@@ -115,16 +117,16 @@ This balanced scoring method avoids overemphasizing any single stat, offering a 
 ![Top Scorers Shooting Breakdown](visuals_nba_2023_playoffs/top_scorers_shooting.png)
 
 #### 🔹 Assist Leaders (AST vs TOV)
-![Assist Leaders](visuals_nba_2023_playoffs/assist_vs_tov.png)
+![Assist Leaders](visuals_nba_2023_playoffs/assist_turnover.png)
 
 #### 🔹 Steals Leaders (STL vs PF)
-![Steals Leaders](visuals_nba_2023_playoffs/steals_vs_pf.png)
+![Steals Leaders](visuals_nba_2023_playoffs/steals_fouls.png)
 
 #### 🔹 Block Leaders (BLK vs PF)
-![Block Leaders](visuals_nba_2023_playoffs/blocks_vs_pf.png)
+![Block Leaders](visuals_nba_2023_playoffs/blocks_fouls.png)
 
 #### 🔹 Rebound Leaders (ORB vs DRB)
-![Rebound Leaders](visuals_nba_2023_playoffs/rebounds_breakdown.png)
+![Rebound Leaders](visuals_nba_2023_playoffs/rebound_breakdown.png)
 
 #### 🔹 Top 10 Overall Players Breakdown
 ![Top 10 Overall Players](visuals_nba_2023_playoffs/overall_players_breakdown.png)
@@ -133,7 +135,7 @@ This balanced scoring method avoids overemphasizing any single stat, offering a 
 ![Elbow Method](visuals_nba_2023_playoffs/elbow_method.png)
 
 #### 🔹 PCA Clustering of Player Roles
-![PCA Clustering](visuals_nba_2023_playoffs/pca_clustering.png)
+![PCA Clustering](visuals_nba_2023_playoffs/pca_clustering_roles.png)
 
 
 ## 📌 Conclusion
@@ -144,8 +146,26 @@ Key takeaways include standout performers like **Nikola Jokić**, **Devin Booker
 
 The analysis highlights the power of data-driven storytelling in sports and demonstrates practical application of **data analytics skills**, including **statistical modeling, data visualization, and unsupervised learning** — all reinforced through tools like **RStudio, ggplot2, and PCA/KMeans**.
 
-**Skills Demonstrated:** Exploratory Data Analysis (EDA), Data Cleaning, Data Mining, Statistical Analysis, Predictive Modeling (Weighted Scoring), Data Visualization (ggplot2), Unsupervised Learning (PCA & KMeans), Feature Engineering, Clustering.
+### 💼 **Skills Demonstrated**
 
+- **Exploratory Data Analysis (EDA)** — Data filtering (Games ≥ 8), summary statistics, correlation insights, and trend exploration.
+- **Data Cleaning & Transformation** — Handling missing values, renaming columns, feature engineering (scoring breakdown, weighted score).
+- **Data Mining** — Extraction of insights from raw NBA playoff data, creating actionable player performance metrics.
+- **Statistical Analysis** — Correlation matrix (PTS & AST, DRB & BLK, etc.), summary stats, scoring model design.
+- **Predictive Modeling** *(Descriptive)* — Weighted Scoring system for objective player ranking.
+- **Data Visualization** — Professional bar charts, heatmaps, PCA plots using `ggplot2` and supporting R packages.
+- **Unsupervised Learning** — PCA (dimensionality reduction) and KMeans Clustering (player segmentation).
+- **Feature Engineering** — Creating TwoPT/ThreePT/FT Points, turnover negation, weighted score metric.
+- **Tool Proficiency** — R, RStudio, `tidyverse`, `ggplot2`, `ggcorrplot`, `factoextra`, `readxl`, `scales`, `dplyr`.
+
+---
+
+### 📌 SAS Badge Alignment:
+This project **demonstrates skills covered in all 4 SAS certifications** you’ve earned:
+1. **Statistics & Data Mining for BI** *(Undergrad)* ✅  
+2. **Predictive Analytics Management** *(Grad)* ✅  
+3. **Enterprise Performance Management** *(Grad)* ✅  
+4. **Applied Data Analytics (Tier 3)** *(Grad)* ✅
 
 
 
