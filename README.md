@@ -129,7 +129,7 @@ This balanced scoring method avoids overemphasizing any single stat, offering a 
 ![Rebound Leaders](visuals_nba_2023_playoffs/rebound_breakdown.png)
 
 #### 🔹 Top 10 Overall Players Breakdown
-![Top 10 Overall Players](visuals_nba_2023_playoffs/overall_players_breakdown.png)
+![Top 10 Overall Players](visuals_nba_2023_playoffs/top_overall_weighted.png)
 
 #### 🔹 Elbow Method for Optimal Clusters
 ![Elbow Method](visuals_nba_2023_playoffs/elbow_method.png)
