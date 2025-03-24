@@ -112,7 +112,7 @@ This balanced scoring method avoids overemphasizing any single stat, offering a 
 ![Correlation Heatmap](visuals_nba_2023_playoffs/correlation_heatmap.png)
 
 #### 🔹 Shooting Breakdown of Top Scorers
-![Top Scorers Shooting Breakdown](visuals_nba_2023_playoffs/top_scorers_breakdown.png)
+![Top Scorers Shooting Breakdown](visuals_nba_2023_playoffs/top_scorers_shooting.png)
 
 #### 🔹 Assist Leaders (AST vs TOV)
 ![Assist Leaders](visuals_nba_2023_playoffs/assist_vs_tov.png)
