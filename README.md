@@ -1,3 +1,18 @@
+## Table of Contents
+- [Project Overview](#nba-2023-playoff-player-performance-analysis)
+- [Scoring Trends & Efficiency](#-scoring-trends--efficiency)
+- [Assist Efficiency](#-assist-efficiency--playmaking)
+- [Defensive Standouts](#️-defensive-standouts)
+- [Rebounding Leaders](#-rebounding-leaders)
+- [Correlation Analysis](#-correlation-analysis)
+- [Weighted Rankings](#-weighted-score-rankings)
+- [Top 10 Players](#-top-10-overall-performers-detailed-breakdown)
+- [PCA & Clustering](#-pca--clustering-unsupervised-learning)
+- [Tools Used](#-tools--technologies-used)
+- [Visual Gallery](#-visual-gallery)
+- [Conclusion](#-conclusion)
+- [Skills Demonstrated](#-skills-demonstrated)
+
 # NBA 2023 Playoff Player Performance Analysis
 
 This project provides an in-depth analysis of NBA player performance during the **2023 NBA Playoffs**, with the goal of identifying the most impactful players using data-driven methods. Through **exploratory data analysis (EDA)**, **statistical analysis**, **correlation analysis**, **custom weighted scoring**, and **unsupervised learning** techniques, players are ranked and classified into performance tiers such as **Superstars, Starters, and Role Players**.
