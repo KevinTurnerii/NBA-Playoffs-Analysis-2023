@@ -9,9 +9,10 @@
 - [Top 10 Players](#-top-10-overall-performers-detailed-breakdown)
 - [PCA & Clustering](#-pca--clustering-unsupervised-learning)
 - [Tools Used](#-tools--technologies-used)
+- [Skills Demonstrated](#-skills-demonstrated)
 - [Visual Gallery](#-visual-gallery)
 - [Conclusion](#-conclusion)
-- [Skills Demonstrated](#-skills-demonstrated)
+
 
 # NBA 2023 Playoff Player Performance Analysis
 
@@ -124,6 +125,19 @@ This balanced scoring method avoids overemphasizing any single stat, offering a 
 - **readxl** — Importing Excel datasets
 - **scales & dplyr** — Custom formatting and data aggregation
 - **factoextra** — PCA visualization and clustering support
+### 💼 **Skills Demonstrated**
+
+- **Exploratory Data Analysis (EDA)** — Data filtering (Games ≥ 8), summary statistics, correlation insights, and trend exploration.
+- **Data Cleaning & Transformation** — Handling missing values, renaming columns, feature engineering (scoring breakdown, weighted score).
+- **Data Mining** — Extraction of insights from raw NBA playoff data, creating actionable player performance metrics.
+- **Statistical Analysis** — Correlation matrix (PTS & AST, DRB & BLK, etc.), summary stats, scoring model design.
+- **Predictive Modeling** *(Descriptive)* — Weighted Scoring system for objective player ranking.
+- **Data Visualization** — Professional bar charts, heatmaps, PCA plots using `ggplot2` and supporting R packages.
+- **Unsupervised Learning** — PCA (dimensionality reduction) and KMeans Clustering (player segmentation).
+- **Feature Engineering** — Creating TwoPT/ThreePT/FT Points, turnover negation, weighted score metric.
+- **Tool Proficiency** — R, RStudio, `tidyverse`, `ggplot2`, `ggcorrplot`, `factoextra`, `readxl`, `scales`, `dplyr`.
+
+
 
 ### 📸 Visual Gallery
 
@@ -163,17 +177,6 @@ Key takeaways include standout performers like **Nikola Jokić**, **Devin Booker
 
 The analysis highlights the power of data-driven storytelling in sports and demonstrates practical application of **data analytics skills**, including **statistical modeling, data visualization, and unsupervised learning** — all reinforced through tools like **RStudio, ggplot2, and PCA/KMeans**.
 
-### 💼 **Skills Demonstrated**
-
-- **Exploratory Data Analysis (EDA)** — Data filtering (Games ≥ 8), summary statistics, correlation insights, and trend exploration.
-- **Data Cleaning & Transformation** — Handling missing values, renaming columns, feature engineering (scoring breakdown, weighted score).
-- **Data Mining** — Extraction of insights from raw NBA playoff data, creating actionable player performance metrics.
-- **Statistical Analysis** — Correlation matrix (PTS & AST, DRB & BLK, etc.), summary stats, scoring model design.
-- **Predictive Modeling** *(Descriptive)* — Weighted Scoring system for objective player ranking.
-- **Data Visualization** — Professional bar charts, heatmaps, PCA plots using `ggplot2` and supporting R packages.
-- **Unsupervised Learning** — PCA (dimensionality reduction) and KMeans Clustering (player segmentation).
-- **Feature Engineering** — Creating TwoPT/ThreePT/FT Points, turnover negation, weighted score metric.
-- **Tool Proficiency** — R, RStudio, `tidyverse`, `ggplot2`, `ggcorrplot`, `factoextra`, `readxl`, `scales`, `dplyr`.
 
 
 
