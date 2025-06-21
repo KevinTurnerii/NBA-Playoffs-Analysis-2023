@@ -191,21 +191,22 @@ An interactive report was created to summarize playoff insights using **Power BI
 
 ## 📌 Conclusion
 
-This project demonstrates the integration of **advanced data analytics**, **AI/ML techniques**, and **business intelligence reporting** to produce a professional-level player performance analysis.
+This project demonstrates the integration of **advanced data analytics**, **machine learning techniques**, and **business intelligence reporting** to produce a polished, real-world NBA player performance analysis.
 
-Using tools like **R, Power BI**, and SAS-based logic, the analysis delivers:
-- Statistically grounded insights
-- Objective performance rankings
-- Role-based clustering for talent segmentation
-- A visual, stakeholder-ready dashboard
+By combining tools like **R**, **Power BI**, and SAS-aligned logic, the project delivers:
 
-It reflects practical expertise gained through:
-- 🎓 A **Bachelor’s in MIS & Business Analytics**
-- 📘 A **Master’s in Data Analytics** (in progress, with **AI/ML minor**)
-- 📜 **4 SAS Certifications** covering data mining, BI, performance analytics, and machine learning
+- Statistically grounded insights  
+- Objective performance rankings via custom scoring  
+- Role-based clustering for talent segmentation  
+- A stakeholder-ready dashboard for executive decision-making
 
-This portfolio project serves as a real-world example of how data-driven storytelling can elevate both team strategy and player evaluation.
+This work reflects applied expertise gained through:
 
+- 🎓 A **Bachelor’s in Management Information Systems & Business Analytics**  
+- 📘 A **Master’s in Data Analytics** (in progress, with a minor in **AI & Machine Learning**)  
+- 📜 **4 SAS Certifications** covering **data mining, predictive analytics, business intelligence, performance management, and machine learning**
+
+This portfolio project serves as a real-world demonstration of **how data storytelling and analytics can drive strategic decisions** in both sports and business contexts.
 
 
 
