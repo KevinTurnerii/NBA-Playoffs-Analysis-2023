@@ -61,6 +61,8 @@ The result is a dual-layered insight experience that simulates what a data analy
 - **Davis**: 14.1 RPG (11.7 DRB)
 - **Jokić**: 13.5 RPG
 - **Looney** & **Robinson**: Offensive rebounding specialists
+  
+>🔍 Insight: Dominant rebounders like Davis and Jokić controlled the defensive glass, while specialists like Looney and Robinson created extra possessions through offensive rebounding.
 
 ---
 
@@ -105,6 +107,8 @@ Top performers included:
 | 9️⃣ | Jamal Murray    | 26.1 PPG, 7.1 AST |
 | 🔟 | Jalen Brunson   | 27.8 PPG, 5.6 AST |
 
+> 🔍 **Insight:** The top 10 performers were not just high scorers — most contributed across multiple categories, reinforcing the value of all-around impact over isolated stats.
+
 ---
 
 ## 🧩 PCA & Clustering (Unsupervised Learning)
@@ -141,6 +145,8 @@ An interactive report was created to summarize playoff insights using **Power BI
 - **ggplot2**, **ggcorrplot**, **factoextra** – Correlation, PCA, and cluster visualization
 - **tidyverse**, **dplyr**, **scales**, **readxl** – Data prep and formatting
 - **KMeans / PCA** – Unsupervised learning methods
+- **DAX (Power BI)** – Custom measures for scoring, filtering, and KPI logic
+
 
 ---
 
@@ -191,7 +197,7 @@ An interactive report was created to summarize playoff insights using **Power BI
 
 ## 📌 Conclusion
 
-This project demonstrates the integration of **advanced data analytics**, **machine learning techniques**, and **business intelligence reporting** to produce a polished, real-world NBA player performance analysis.
+This project demonstrates the integration of **advanced data analytics**, **machine learning techniques**, and **business intelligence reporting** to produce a polished, real-world analytics deliverable for NBA player performance.
 
 By combining tools like **R**, **Power BI**, and SAS-aligned logic, the project delivers:
 
