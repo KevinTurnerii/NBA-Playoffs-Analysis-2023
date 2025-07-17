@@ -197,22 +197,21 @@ An interactive report was created to summarize playoff insights using **Power BI
 
 ## 📌 Conclusion
 
-This project demonstrates the integration of **advanced data analytics**, **machine learning techniques**, and **business intelligence reporting** to produce a polished, real-world analytics deliverable for NBA player performance.
+This project demonstrates the integration of advanced data analytics, machine learning techniques, and business intelligence reporting to produce a polished, real-world deliverable focused on NBA player performance.
 
-By combining tools like **R**, **Power BI**, and SAS-aligned logic, the project delivers:
+By combining tools like **R**, **Power BI**, and **SAS-aligned methodologies**, the analysis delivers:
 
 - Statistically grounded insights  
-- Objective performance rankings via custom scoring  
-- Role-based clustering for talent segmentation  
-- A stakeholder-ready dashboard for executive decision-making
+- Objective player rankings using custom scoring metrics  
+- Role-based clustering through PCA and KMeans  
+- A stakeholder-ready dashboard for decision-making support
 
 This work reflects applied expertise gained through:
 
 - 🎓 A **Bachelor’s in Management Information Systems & Business Analytics**  
 - 📘 A **Master’s in Data Analytics** (in progress, with a minor in **AI & Machine Learning**)  
-- 📜 **4 SAS Certifications** covering **data mining, predictive analytics, business intelligence, performance management, and machine learning**
+- 📜 **4 SAS Certifications** covering data mining, predictive analytics, business intelligence, performance management, and machine learning
 
-This portfolio project serves as a real-world demonstration of **how data storytelling and analytics can drive strategic decisions** in both sports and business contexts.
-
+This portfolio project serves as a real-world demonstration of how analytics and data storytelling can drive strategic decisions in both sports and business environments.
 
 
